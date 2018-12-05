@@ -1,8 +1,9 @@
 title: Air !!!
+description: > 
+  Air !!! is a free iOS App that notifies air pollution, provides Real-time Air Quality Index (AQI) & AQI forecast
+
 author: Deng Junqiang
 email: sh109419@163.com
-description: > 
-  Air !!! is a free iOS App that notify air pollution, provide AQI query & AQI forecast
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
