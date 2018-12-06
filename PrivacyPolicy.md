@@ -10,7 +10,6 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 - **Information Collection and Use**
   + For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request is retained on your device and is not collected by me in any way.
 In order to push notification, your DeviceToken, monitoring station and other setting information will be collected. The setting information will not provide to any unrelated third party.
-The app does not use any third party services.
 
 - **Cookies**
   + Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your device internal memory.
