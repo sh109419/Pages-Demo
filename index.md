@@ -21,6 +21,6 @@ All data provided by the [World Air Quality Index Project](https://waqi.info).
 
 
 ## Contact
-EMail: sh109419@163.com
+If you have any questions please contact [Deng junqiang](sh109419@163.com).
 
 
